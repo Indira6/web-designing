@@ -15,8 +15,8 @@ loadjson("data.json",function(text){
 	console.log(data);
 	basic(data.details);
 	careerinfo(data.careerobjective);
-	education(data.eduactionalqualifications);
-	skills(data.techinicalskills);
+	education(data.educationalqualifications);
+	skills(data.technicalskills);
 })
 var child1 = document.querySelector(".child1");
 function basic(det) {
