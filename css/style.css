@@ -34,7 +34,7 @@ img{
 }
 .parent{
 	display:flex;
-	flex-direction: row-reverse;
+	flex-direction: row;
 }
 .parent{
         margin-top:5px;
